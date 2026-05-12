@@ -1,6 +1,8 @@
 # Maze Escape
 
-Un juego de escape room desarrollado en [Wollok](https://www.wollok.org/) como trabajo práctico grupal de la materia Programación con Objetos. El jugador debe resolver una serie de puzzles encadenados en tres habitaciones para escapar antes de que se acabe el tiempo.
+Un juego de escape room desarrollado en [Wollok](https://www.wollok.org/) como trabajo práctico grupal de la materia 
+"Paradigmas de programación" de la carrera de Ing. en Sistemas de la Facultad UTN FRBA.
+El jugador debe resolver una serie de puzzles encadenados en tres habitaciones para escapar antes de que se acabe el tiempo.
 
 ---
 
